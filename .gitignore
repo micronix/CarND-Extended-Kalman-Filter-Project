@@ -22,3 +22,7 @@ xcuserdata/
 *.xcscmblueprint
 ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
+
+data_in.txt
+data_out.txt
+output.txt
